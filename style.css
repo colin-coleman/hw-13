@@ -68,7 +68,8 @@ a {
 }
 
 .one {
-
+Grid-row-start: 1;
+Grid-row-end: 3;
 }
 
 .two {
